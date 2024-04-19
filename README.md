@@ -36,7 +36,8 @@ The weights and biases of each trained model were saved in .h5 format.
 
 ## Cómo citar ✒️
 
-* X.
+* Mantilla, A y Goyes, P (20 de enero de 2023). Predicción de la ocurrencia de depósitos minerales tipo pórfido usando técnicas de aprendizaje automático.
+https://github.com/Anagabrielamantilla/MineralPrediction
 
 Este código se encuentra protegido bajo una licencia de libre acceso que tiene las siguientes condiciones: 
 
