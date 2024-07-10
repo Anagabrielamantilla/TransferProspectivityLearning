@@ -16,10 +16,6 @@ The data used in this study is protected under an open-access license and is pub
 
 * **04_Validation_Points.csv:** values of transformed predictive variables PC1-PC7 at validation points labeled with 1 (occurrence).
 
-* **01_VO.tif:** raster composed of 9 bands, each corresponding to a predictive variable (X1-X7). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
-
-* **01_VO.tif:** raster composed of 9 bands, each corresponding to a transformed predictive variable (PC1-PC7). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
-
 ## Models 📋
 
 The weights of each trained model were saved in .h5 format.
