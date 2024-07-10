@@ -8,17 +8,17 @@ We present a framework to address deep learning with imbalanced data using trans
 
 The data used in this study is protected under an open-access license and is published on the platform of the Yukon Geological Survey (https://data.geology.gov.yk.ca/) and the Government of Canada (https://www.canada.ca/en.html). Data are organized as follows:
 
-* **01_Train_VO.csv**: values of predictive variables X1-X9 at training data points labeled with 0 (non-occurrence) and 1 (occurrence).
+* **01_Train_VO.csv**: values of predictive variables X1-X7 at training data points labeled with 0 (non-occurrence) and 1 (occurrence).
 
-* **02_Train_PCA.csv:** values of transformed predictive variables with Principal Component Analysis (PCA). These are called PC1-PC9 and are labeled with 0 (non-occurrence) and 1 (occurrence). 
+* **02_Train_PCA.csv:** values of transformed predictive variables with Principal Component Analysis (PCA). These are called PC1-PC7 and are labeled with 0 (non-occurrence) and 1 (occurrence). 
 
-* **03_Train_Pretext.csv:** values of transformed predictive variables PC1-PC9 at 500 random points labeled with 1 (plutonic), 1 (sedimentary/volcanic), 2 (volcanic), 3 (sedimentary) and 4 (metamorphic). 
+* **03_Train_Pretext.csv:** values of transformed predictive variables PC1-PC7 at 500 random points labeled with 1 (plutonic), 1 (sedimentary/volcanic), 2 (volcanic), 3 (sedimentary) and 4 (metamorphic). 
 
-* **04_Validation_Points.csv:** values of transformed predictive variables PC1-PC9 at validation points labeled with 1 (occurrence).
+* **04_Validation_Points.csv:** values of transformed predictive variables PC1-PC7 at validation points labeled with 1 (occurrence).
 
-* **01_VO.tif:** raster composed of 9 bands, each corresponding to a predictive variable (X1-X9). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
+* **01_VO.tif:** raster composed of 9 bands, each corresponding to a predictive variable (X1-X7). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
 
-* **01_VO.tif:** raster composed of 9 bands, each corresponding to a transformed predictive variable (PC1-PC9). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
+* **01_VO.tif:** raster composed of 9 bands, each corresponding to a transformed predictive variable (PC1-PC7). You can find it in the following link: https://drive.google.com/drive/folders/1Tzrwo7I5K2xme8V4gTtiNTsujbVZHICD?usp=sharing
 
 ## Models 📋
 
