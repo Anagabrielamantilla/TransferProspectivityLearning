@@ -2,7 +2,7 @@
 
 ## Repository description 📋
 
-We present a methodology to address deep learning with imbalanced data using transfer learning to enhance the initialization weights of the classification network. Moreover, we included two additional improvements based on bias initialization and weighted loss function to increase the performance during the training.
+We present a framework to address deep learning with imbalanced data using transfer learning to enhance the initialization weights of the classification network. Moreover, we included two additional improvements based on bias initialization and weighted loss function to increase the performance during the training.
 
 ## Database 📋
 
@@ -22,7 +22,7 @@ The data used in this study is protected under an open-access license and is pub
 
 ## Models 📋
 
-The weights and biases of each trained model were saved in .h5 format.
+The weights of each trained model were saved in .h5 format.
 
 
 ## Créditos ✒️
@@ -33,18 +33,3 @@ The weights and biases of each trained model were saved in .h5 format.
 * **Paul Goyes:**   goyes.yesid@gmail.com </br> <a href="https://www.linkedin.com/in/paul-goyes-0212b810/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
 </a>
-
-## Cómo citar ✒️
-
-* Mantilla, A y Goyes, P (20 de enero de 2023). Predicción de la ocurrencia de depósitos minerales tipo pórfido usando técnicas de aprendizaje automático.
-https://github.com/Anagabrielamantilla/MineralPrediction
-
-Este código se encuentra protegido bajo una licencia de libre acceso que tiene las siguientes condiciones: 
-
-- Se requiere la preservación de los avisos de derechos de autor y licencia
-- Se prohibe el uso de estos códigos con fines lucrativos
-- Los autores no se hacen responsables del uso de los códigos por parte de terceros
-- En caso de modificaciones al código, deben especificarse en un apartado donde se cite la fuente original de este: https://github.com/Anagabrielamantilla/MineralProspectivityPrediction 
-- No se permite la publicación de este código en otras plataformas bajo ninguna circunstancia sin consentimiento de los autores
-
-**Los autores prohiben eliminar, borrar o modificar este apartado**
