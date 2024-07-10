@@ -2,7 +2,7 @@
 
 ## Repository description 📋
 
-We present a framework to address deep learning with imbalanced data using transfer learning to enhance the initialization weights of the classification network. Moreover, we included two additional improvements based on bias initialization and weighted loss function to increase the performance during the training.
+We present a framework to address deep learning with imbalanced data using transfer learning to enhance the initialization weights of the classification network. Moreover, we included an additional improvement based on a weighted loss function to increase the performance during the training.
 
 ## Database 📋
 
