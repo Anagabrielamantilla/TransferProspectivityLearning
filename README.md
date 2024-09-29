@@ -21,11 +21,12 @@ The data used in this study is protected under an open-access license and is pub
 The weights of each trained model were saved in .h5 format.
 
 
-## Créditos ✒️
+## How to cite ✒️
+Mantilla-Dulcey, A., Goyes-Peñafiel, P., Baez-Rodríguez, R., & Khurama, S. (2024). Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning. Gondwana Research.
 
+You can found the details of the research in our paper: https://doi.org/10.1016/j.gr.2024.09.004 
+
+## How to contact me? ✒️
 * **Ana Gabriela Mantilla:** anagmd2019@gmail.com </br> <a href="https://www.linkedin.com/in/ana-gabriela-mantilla-24377a21a/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
 </a> </br> 
-* **Paul Goyes:**   goyes.yesid@gmail.com </br> <a href="https://www.linkedin.com/in/paul-goyes-0212b810/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
-</a>
