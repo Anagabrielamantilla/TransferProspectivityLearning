@@ -2,7 +2,9 @@
 
 ## Repository description 📋
 
-We present a framework to address deep learning with imbalanced data using transfer learning to enhance the initialization weights of the classification network. Moreover, we included an additional improvement based on a weighted loss function to increase the performance during the training.
+Mineral prospectivity mapping is crucial for identifying areas with economically valuable minerals. Therefore, several methods based on machine learning have been applied to predict the likelihood of mineral occurrences, especially deep learning (DL), which provides a flexible and precise approach to the use of continuous data. It allows the approximation of predictive variables with probability values related to new ore targets. However, in the early stages of mineral exploration, DL-based methods face a challenge related to class and sampling imbalance due to scarce mineral deposits, resulting in a lack of enough samples to train, limiting the model’s predictive ability. This work proposed a detailed and systematic framework to address imbalanced data issues with prior geological transfer learning and a weighted loss function. We exploited the abundant pixel information of input variables to develop a pretext geological classification and a feature data extraction task as an initializer for the trainable variables of the neural network. The proposed workflow was tested in a porphyry-rich Yukon (Canada) region and overperformed other state-of-the-art classification algorithms such as random forest, support vector machines, and logistic regression. Moreover, our results were contrasted against different geological reports, where our mineral prospectivity map was coherent with regional and local potential assessments of porphyry-type mineral occurrences. The quantitative metrics with a validation dataset suggested that the proposed method can effectively predict mineral prospective areas in different imbalanced data scenarios.
+
+
 
 ## Database 📋
 
