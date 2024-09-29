@@ -1,4 +1,4 @@
-# Mineral prospectivity mapping with imbalanced data via prior geological transfer learning
+# Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning
 
 ## Repository description 📋
 
